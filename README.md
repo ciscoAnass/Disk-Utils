@@ -25,11 +25,11 @@ cd Disk-Utils
 3. Make the script executable
 
 ```bash
-chmod +x disk-utils.sh
+chmod +x DiskUtils.sh
 ```
 
 4. Run the script with root privileges
 
 ```bash
-sudo ./disk-utils.sh
+sudo ./DiskUtils.sh
 ```
